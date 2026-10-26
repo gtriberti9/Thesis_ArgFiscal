@@ -1,0 +1,12 @@
+Category,Group,Mean_Income,Observations
+Overall,Formal,789201.0971,47067
+Overall,Informal,330052.817,35286
+By_State,FH,994866.7164,31347
+By_State,FL,319470.7493,15720
+By_State,IH,825532.5712,5025
+By_State,IL,218572.5135,30261
+Ratios,Informal/Formal,0.4182113,NA
+Ratios,IH/FH,0.829792129,NA
+Ratios,IL/FL,0.68417066,NA
+Ratios,FL/FH,0.321119145,NA
+Ratios,IL/IH,0.264765463,NA
