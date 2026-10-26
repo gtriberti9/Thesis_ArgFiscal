@@ -1,0 +1,3 @@
+# Raw Global Macro Database release files (licence forbids re-hosting).
+# The Argentina extract and result CSVs in data/interest_rates/ stay tracked.
+data/interest_rates/*_[0-9][0-9][0-9][0-9]_[0-9][0-9].csv
