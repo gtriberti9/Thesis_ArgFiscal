@@ -1,0 +1,6 @@
+item,value,date,source,report page
+non-bank (PNFC) credit to individuals / bank (EEFF) credit to individuals,0.18,2026-02,"BCRA, Informe de Proveedores No Financieros de Crédito, junio 2026",4
+irregular share of non-bank personal loans,0.341,2026-02,"BCRA, Informe de Proveedores No Financieros de Crédito, junio 2026",15
+irregular share of bank loans to households,0.112,2026-02,"BCRA, Informe de Proveedores No Financieros de Crédito, junio 2026",15
+irregular share of bank personal loans,0.138,2026-02,"BCRA, Informe de Proveedores No Financieros de Crédito, junio 2026",15
+annualised CPI inflation (monthly rate x 12),0.35,2026-02,"BCRA, Informe de Proveedores No Financieros de Crédito, junio 2026",14

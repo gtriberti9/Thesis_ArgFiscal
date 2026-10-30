@@ -1,0 +1,10 @@
+date,lender,group,tna %,source,report page
+2023-06,banks,all,104,"BCRA, Informe de Proveedores No Financieros de Crédito, diciembre 2023 (OPNFC rate 171%, 67 pp above the financial-system rate for personal loans)",11
+2023-06,non-bank (OPNFC),all,171,"BCRA, Informe de Proveedores No Financieros de Crédito, diciembre 2023",11
+2025-07,banks,all,70,"BCRA, Informe de Proveedores No Financieros de Crédito, noviembre 2025",15
+2025-07,non-bank (OPNFC),all,129,"BCRA, Informe de Proveedores No Financieros de Crédito, noviembre 2025",14
+2026-02,banks,all,69,"BCRA, Informe de Proveedores No Financieros de Crédito, junio 2026",13
+2026-02,non-bank (OPNFC),all,144,"BCRA, Informe de Proveedores No Financieros de Crédito, junio 2026",13
+2026-02,non-bank (OPNFC),cooperatives and mutuals,96,"BCRA, Informe de Proveedores No Financieros de Crédito, junio 2026",14
+2026-02,non-bank (OPNFC),fintech,144,"BCRA, Informe de Proveedores No Financieros de Crédito, junio 2026",14
+2026-02,non-bank (OPNFC),other providers,179,"BCRA, Informe de Proveedores No Financieros de Crédito, junio 2026",14
